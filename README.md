@@ -24,7 +24,7 @@ Requer Python 3 para o servidor local. Abra http://localhost:8000.
 
 ## Demonstração e publicação
 
-Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+[Acessar demonstração verificada](https://eugeancarlos.github.io/calculadora_imc/)
 
 ## Estrutura versionada
 
@@ -75,3 +75,7 @@ A aplicação permite calcular o IMC de usuários com base no peso e altura forn
 - **JavaScript** - Lógica de cálculo e interatividade  
 
 ## 📊 Fórmula do IMC
+
+## Validação desta auditoria — 14/10/2026
+
+PUBLICADO: [workflow confirmado](https://github.com/EuGeanCarlos/calculadora_imc/actions/runs/38605912454), HTTP 200, conteúdo correspondente ao projeto e 1 recursos locais verificados. Empacotamento local e sintaxe dos arquivos JavaScript verificados; teste funcional completo e responsividade não foram executados.
