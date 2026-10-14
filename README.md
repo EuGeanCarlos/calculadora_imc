@@ -1,3 +1,58 @@
+# Calculadora de IMC — Thera
+
+Atividade do Laboratório Thera/UEMA que calcula índice de massa corporal e apresenta classificação a partir de peso e altura.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## Funcionalidades e utilização
+
+Informe peso em kg e altura em metros e clique em Calcular IMC; por exemplo, 70 e 1,75 produzem aproximadamente 22,86.
+
+## Como executar
+
+```bash
+git clone https://github.com/EuGeanCarlos/calculadora_imc.git
+cd calculadora_imc
+python -m http.server 8000 --directory "calculadora-imc"
+```
+
+Requer Python 3 para o servidor local. Abra http://localhost:8000.
+
+## Demonstração e publicação
+
+Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+
+## Estrutura versionada
+
+```text
+README.md
+calculadora-imc/index.html
+calculadora-imc/script.js
+calculadora-imc/style.css
+```
+
+## Status
+
+Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue o que está implementado das dependências ou etapas pendentes.
+
+## Autor e créditos
+
+**Gean Carlos** — estudante de Engenharia de Computação, UEMA.
+
+[GitHub](https://github.com/EuGeanCarlos)
+
+Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+---
+
+## Documentação original e contexto
+
+O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
+
 # Calculadora IMC
 
 ## 📋 Descrição do Projeto
